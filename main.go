@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 import "github.com/google/go-querystring/query"
-import "github.com/rajesh81-sekaran/demo02/sub"
-import "github.com/rajesh81-sekaran/demo02/sub2"
+import "github.com/srcclr/example-go-govendor/sub"
+import "github.com/srcclr/example-go-govendor/sub2"
 
 type Options struct {
     Query   string `url:"q"`
